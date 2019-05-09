@@ -1,8 +1,7 @@
 {
-  "id": "hosting",
-  "environments": {
-    "pesho": {
-      "deploy": false
-    }
+  "id": "hosting1",
+  "loadBalancer": {
+    "targetPort": 80,
+    "cdn": true
   }
 }
