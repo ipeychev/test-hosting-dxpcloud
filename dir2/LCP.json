@@ -1,0 +1,7 @@
+{
+  "id": "hosting2",
+  "loadBalancer": {
+    "targetPort": 80,
+    "cdn": true
+  }
+}
